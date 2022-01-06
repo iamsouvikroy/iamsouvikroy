@@ -8,7 +8,7 @@
 - ⚡ Fun fact: You are watching my profile.<br>
 
 ### More about me
-<img src="https://github-readme-stats.vercel.app/api?username=iamsouvikroy&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsouvikroy&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=iamsouvikroy&show_icons=true&custom_title=My Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsouvikroy&layout=compact&custom_title=My Favourtite Languages">
 
 
