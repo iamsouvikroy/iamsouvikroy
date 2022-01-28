@@ -2,9 +2,8 @@
 
 
 - 🔭 I’m currently working on learning new stuff at a young age.
-- 🌱 I’m currently learning more about C# and Flutter.
-- 👯 I’m looking to collaborate on github.
-- 🤔 I’m looking for help with C#.
+- 🌱 I’m currently learning more about C++ and DSA.
+- 🤔 I’m looking for help with C++.
 - ⚡ Fun fact: You are watching my profile.<br>
 
 ### More about me
